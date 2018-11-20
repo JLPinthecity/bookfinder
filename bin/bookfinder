@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
-require_relative './lib/bookfinder/environment'
+require './lib/bookfinder'
 
-bookfinder::CLI.new.call
+Bookfinder::CLI.new.call
+
 
