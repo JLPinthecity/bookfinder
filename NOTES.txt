@@ -1,0 +1,36 @@
+CLI portion:
+
+“Welcome to the Top Books of 2018 Bookfinder App.”
+
+Display list. 
+
+“Enter the number of the book you’d like to learn more about. Enter exit to leave the program.
+
+Options: 
+If out-of-range number is entered, display the list again. 
+If input == existing number, display Learn More Menu for Book 
+Learn More Menu for Book 
+Author
+Genre
+Description
+Goodreads link 
+If exit, exit program. “Thank you for using the Top Books of 2018 Bookfinder App. Goodbye!”
+
+Learn More Menu for Book 
+Author
+Genre
+Description
+Goodreads link 
+
+“Want to learn more about the book?”
+If yes, display Learn More Book Menu
+If no, display full book list with option to exit. 
+
+
+
+
+
+What do books have?
+-Instances of books should have a title, author, genre, rating
+-Second level (individual book page) book has a description + url 
+
