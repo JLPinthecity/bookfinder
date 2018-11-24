@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
-require './lib/bookfinder'
+require "bundler/setup"
+require "bookfinder"
 
 Bookfinder::CLI.new.call
 
