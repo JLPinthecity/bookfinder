@@ -1,12 +1,7 @@
 class Bookfinder::Scraper 
 
-def open_page
-  doc = Nokogiri::HTML(open("https://www.goodreads.com/book/popular_by_date/2018"))
-end
 
-def get_books
 
-end
 
 def make_books
   
@@ -15,16 +10,28 @@ end
 
 
 def self.scrape_books
-  doc = Nokogiri::HTML(open("https://www.goodreads.com/book/popular_by_date/2018"))
-  binding.pry 
+   doc = Nokogiri::HTML(open("https://www.penguinrandomhouse.com/books/award-winners-fiction"))
+   books = doc.css("div.book")
+   books.each do |book|
+    title = book.css("div.title").text.strip
+    author = book.css("div.contributor").text.strip
+    
+    binding.pry
+  end
+end
+  
+
 end
 
-
-
-
-
-
-end
+#maybe create hashes of books?
+#then assign attributes to symbols
+   
+   
+   
+   
+   
+ 
+  
 
 
 #book_1.name = title of book
