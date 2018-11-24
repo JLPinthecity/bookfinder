@@ -1,0 +1,577 @@
+=> [1;34m#(Document:0x116c5b4 {[0m
+  name = [31m[1;31m"[0m[31mdocument[1;31m"[0m[31m[0m,
+  children = [
+    [1;34m#(DTD:0xb660ac {[0m name = [31m[1;31m"[0m[31mhtml[1;31m"[0m[31m[0m }),
+    [1;34m#(Element:0xbec864 {[0m
+      name = [31m[1;31m"[0m[31mhtml[1;31m"[0m[31m[0m,
+      attributes = [
+        [1;34m#(Attr:0xbe3afc {[0m
+          name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+          value = [31m[1;31m"[0m[31mdesktop withSiteHeaderTopFullImage[1;35m\n[0m[31m[1;31m"[0m[31m[0m
+          })],
+      children = [
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+        [1;34m#(Element:0xcbce10 {[0m
+          name = [31m[1;31m"[0m[31mhead[1;31m"[0m[31m[0m,
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0xf92be4 {[0m
+              name = [31m[1;31m"[0m[31mtitle[1;31m"[0m[31m[0m,
+              children = [ [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31mMost Popular Books Published In 2018[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m          [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0xfa3a20 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0xf9fb14 {[0m name = [31m[1;31m"[0m[31mtype[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtext/javascript[1;31m"[0m[31m[0m })],
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m        if (window.Mobvious === undefined) {[1;35m\n[0m[31m          window.Mobvious = {};[1;35m\n[0m[31m        }[1;35m\n[0m[31m        window.Mobvious.device_type = 'desktop';[1;35m\n[0m[31m        [1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0xff7008 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0xff7404 {[0m
+                  name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/webfontloader-d12a76562d1fabc96ea2ca165a5f46ae.js[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x101ad14 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m//<![CDATA[[1;35m\n[0m[31m[1;35m\n[0m[31m  WebFont.load({[1;35m\n[0m[31m    classes: false,[1;35m\n[0m[31m    custom: {[1;35m\n[0m[31m      families: [[1;35m\"[0m[31mLato:n4,n7,i4[1;35m\"[0m[31m, [1;35m\"[0m[31mMerriweather:n4,n7,i4[1;35m\"[0m[31m],[1;35m\n[0m[31m      urls: [[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/gr/fonts-e256f84093cc13b27f5b82343398031a.css[1;35m\"[0m[31m][1;35m\n[0m[31m    }[1;35m\n[0m[31m  });[1;35m\n[0m[31m[1;35m\n[0m[31m//]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x105cf98 {[0m
+              name = [31m[1;31m"[0m[31mlink[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x105151c {[0m name = [31m[1;31m"[0m[31mrel[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mstylesheet[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x1051508 {[0m name = [31m[1;31m"[0m[31mmedia[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mall[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x10514e0 {[0m
+                  name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/goodreads-39672494918316a7049446de501420b6.css[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Comment [0m[31m[1;31m"[0m[31m[if lte IE 9]>[1;35m\n[0m[31m<link rel=[1;35m\"[0m[31mstylesheet[1;35m\"[0m[31m media=[1;35m\"[0m[31mall[1;35m\"[0m[31m href=[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/goodreads_split2-a7db8aadb346495f0348e4cb0448ffc3.css[1;35m\"[0m[31m />[1;35m\n[0m[31m<![endif][1;31m"[0m[31m[0m),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x10a6530 {[0m
+              name = [31m[1;31m"[0m[31mstyle[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x109d9d0 {[0m name = [31m[1;31m"[0m[31mtype[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtext/css[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x109d9bc {[0m name = [31m[1;31m"[0m[31mmedia[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mscreen[1;31m"[0m[31m[0m })],
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m    .bigTabs {[1;35m\n[0m[31m      margin-bottom: 0px;[1;35m\n[0m[31m    }[1;35m\n[0m[31m[1;35m\n[0m[31m    .bigTabs .first,[1;35m\n[0m[31m    .bigTabs .first {[1;35m\n[0m[31m      margin-left: 0;[1;35m\n[0m[31m    }[1;35m\n[0m[31m[1;35m\n[0m[31m    .tabBoxes {[1;35m\n[0m[31m      border-left: 1px solid #BBB596;[1;35m\n[0m[31m      border-bottom: 1px solid #BBB596;[1;35m\n[0m[31m      border-right: 1px solid #BBB596;[1;35m\n[0m[31m      padding: 10px;[1;35m\n[0m[31m      text-align: center;[1;35m\n[0m[31m    }[1;35m\n[0m[31m[1;35m\n[0m[31m    .rightContainer select,[1;35m\n[0m[31m    .rightContainer label {[1;35m\n[0m[31m      margin-right: 5px;[1;35m\n[0m[31m    }[1;35m\n[0m[31m[1;35m\n[0m[31m    .rightContainer #by_month select {[1;35m\n[0m[31m      margin-right: 0px;[1;35m\n[0m[31m    }[1;35m\n[0m[31m[1;35m\n[0m[31m    .disabled,[1;35m\n[0m[31m    .disabled:hover {[1;35m\n[0m[31m      color: #999;[1;35m\n[0m[31m      visibility: hidden;[1;35m\n[0m[31m    }[1;35m\n[0m[31m  [1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Comment [0m[31m[1;31m"[0m[31m[if lt IE 9]>[1;35m\n[0m[31m    <link rel=[1;35m\"[0m[31mstylesheet[1;35m\"[0m[31m media=[1;35m\"[0m[31mscreen[1;35m\"[0m[31m href=[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/ie-243e73b5c2539766a7d02b37fdf277f8.css[1;35m\"[0m[31m />[1;35m\n[0m[31m  <![endif][1;31m"[0m[31m[0m),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Comment [0m[31m[1;31m"[0m[31m[if lt IE 8]>[1;35m\n[0m[31m    <link rel=[1;35m\"[0m[31mstylesheet[1;35m\"[0m[31m media=[1;35m\"[0m[31mscreen[1;35m\"[0m[31m href=[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/common_images_ie-5b0cc205c33756d8e7e84ce5b8be28e3.css[1;35m\"[0m[31m />[1;35m\n[0m[31m  <![endif][1;31m"[0m[31m[0m),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Comment [0m[31m[1;31m"[0m[31m[if gte IE 8]><![1;31m"[0m[31m[0m),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1122400 {[0m
+              name = [31m[1;31m"[0m[31mlink[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1147610 {[0m name = [31m[1;31m"[0m[31mrel[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mstylesheet[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x11475fc {[0m name = [31m[1;31m"[0m[31mmedia[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mscreen[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x11475e8 {[0m
+                  name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/common_images-67dd60a681af04727cf7d18f5c5ba498.css[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Comment [0m[31m[1;31m"[0m[31m<![endif][1;31m"[0m[31m[0m),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x14274c0 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1426b10 {[0m
+                  name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/desktop/libraries-1c2883cf9caed935dcb88219fd720a9c.js[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x142b868 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x142aeb8 {[0m
+                  name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/application-fcec05911cca1750e2279360a958abe6.js[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x142f260 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  //<![CDATA[[1;35m\n[0m[31m    var gptAdSlots = gptAdSlots || [];[1;35m\n[0m[31m    var googletag = googletag || {};[1;35m\n[0m[31m    googletag.cmd = googletag.cmd || [];[1;35m\n[0m[31m    (function() {[1;35m\n[0m[31m      var gads = document.createElement([1;35m\"[0m[31mscript[1;35m\"[0m[31m);[1;35m\n[0m[31m      gads.async = true;[1;35m\n[0m[31m      gads.type = [1;35m\"[0m[31mtext/javascript[1;35m\"[0m[31m;[1;35m\n[0m[31m      var useSSL = [1;35m\"[0m[31mhttps:[1;35m\"[0m[31m == document.location.protocol;[1;35m\n[0m[31m      gads.src = (useSSL ? [1;35m\"[0m[31mhttps:[1;35m\"[0m[31m : [1;35m\"[0m[31mhttp:[1;35m\"[0m[31m) +[1;35m\n[0m[31m      [1;35m\"[0m[31m//www.googletagservices.com/tag/js/gpt.js[1;35m\"[0m[31m;[1;35m\n[0m[31m      var node = document.getElementsByTagName([1;35m\"[0m[31mscript[1;35m\"[0m[31m)[0];[1;35m\n[0m[31m      node.parentNode.insertBefore(gads, node);[1;35m\n[0m[31m    })();[1;35m\n[0m[31m    // page settings[1;35m\n[0m[31m  //]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1433108 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  //<![CDATA[[1;35m\n[0m[31m    googletag.cmd.push(function() {[1;35m\n[0m[31m      googletag.pubads().setTargeting([1;35m\"[0m[31msid[1;35m\"[0m[31m, [1;35m\"[0m[31mosid.516c274d9f8f42f4bdecf97931bcdbbf[1;35m\"[0m[31m);[1;35m\n[0m[31m    googletag.pubads().setTargeting([1;35m\"[0m[31mgrsession[1;35m\"[0m[31m, [1;35m\"[0m[31mosid.516c274d9f8f42f4bdecf97931bcdbbf[1;35m\"[0m[31m);[1;35m\n[0m[31m    googletag.pubads().setTargeting([1;35m\"[0m[31msurface[1;35m\"[0m[31m, [1;35m\"[0m[31mdesktop[1;35m\"[0m[31m);[1;35m\n[0m[31m    googletag.pubads().setTargeting([1;35m\"[0m[31msignedin[1;35m\"[0m[31m, [1;35m\"[0m[31mfalse[1;35m\"[0m[31m);[1;35m\n[0m[31m    googletag.pubads().setTargeting([1;35m\"[0m[31mgr_author[1;35m\"[0m[31m, [1;35m\"[0m[31mfalse[1;35m\"[0m[31m);[1;35m\n[0m[31m    googletag.pubads().setTargeting([1;35m\"[0m[31mauthor[1;35m\"[0m[31m, []);[1;35m\n[0m[31m      googletag.pubads().enableAsyncRendering();[1;35m\n[0m[31m      googletag.pubads().enableSingleRequest();[1;35m\n[0m[31m      googletag.pubads().collapseEmptyDivs(true);[1;35m\n[0m[31m      googletag.pubads().disableInitialLoad();[1;35m\n[0m[31m      googletag.enableServices();[1;35m\n[0m[31m    });[1;35m\n[0m[31m  //]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1437d20 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  //<![CDATA[[1;35m\n[0m[31m    ! function(a9, a, p, s, t, A, g) {[1;35m\n[0m[31m      if (a[a9]) return;[1;35m\n[0m[31m    [1;35m\n[0m[31m      function q(c, r) {[1;35m\n[0m[31m        a[a9]._Q.push([c, r])[1;35m\n[0m[31m      }[1;35m\n[0m[31m      a[a9] = {[1;35m\n[0m[31m      init: function() {[1;35m\n[0m[31m        q([1;35m\"[0m[31mi[1;35m\"[0m[31m, arguments)[1;35m\n[0m[31m      },[1;35m\n[0m[31m      fetchBids: function() {[1;35m\n[0m[31m        q([1;35m\"[0m[31mf[1;35m\"[0m[31m, arguments)[1;35m\n[0m[31m      },[1;35m\n[0m[31m      setDisplayBids: function() {},[1;35m\n[0m[31m        _Q: [][1;35m\n[0m[31m      };[1;35m\n[0m[31m      A = p.createElement(s);[1;35m\n[0m[31m      A.async = !0;[1;35m\n[0m[31m      A.src = t;[1;35m\n[0m[31m      g = p.getElementsByTagName(s)[0];[1;35m\n[0m[31m      g.parentNode.insertBefore(A, g)[1;35m\n[0m[31m    }([1;35m\"[0m[31mapstag[1;35m\"[0m[31m, window, document, [1;35m\"[0m[31mscript[1;35m\"[0m[31m, [1;35m\"[0m[31m//c.amazon-adsystem.com/aax2/apstag.js[1;35m\"[0m[31m);[1;35m\n[0m[31m    [1;35m\n[0m[31m    apstag.init({[1;35m\n[0m[31m      pubID: '3211', adServer: 'googletag', bidTimeout: 4e3[1;35m\n[0m[31m    });[1;35m\n[0m[31m  //]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1438270 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1144b04 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mcsrf-param[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x1144adc {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mauthenticity_token[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x113bd74 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x113a604 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mcsrf-token[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x113a5f0 {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31m0W/os2JJuKyW0f5wYwf6MDuSdzzWYrgR++CDlOIgVnacyG0V+VR1eYj6hEZH/brpjeBhJ5OcgLWmY8+p0aUHPQ==[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1443e40 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1443490 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mrequest-id[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x144347c {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mTHDD62MXPPPCHPV5BAHZ[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m      [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1446028 {[0m
+              name = [31m[1;31m"[0m[31mlink[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1122554 {[0m name = [31m[1;31m"[0m[31mrel[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mcanonical[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x1122518 {[0m
+                  name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://www.goodreads.com/book/popular_by_date/2018[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x144c98c {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1113fa4 {[0m
+                  name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/react_client_side/external_dependencies-0faeb43a7d.js[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x14510b8 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1450708 {[0m
+                  name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/react_client_side/site_header-9554b696f4.js[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1454fb0 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1454600 {[0m
+                  name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/react_ujs-4ccbf2988911e470c05b12f779088c68.js[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x10fcbd8 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1459e5c {[0m name = [31m[1;31m"[0m[31mtype[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtext/javascript[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x1459e48 {[0m name = [31m[1;31m"[0m[31mcharset[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mutf-8[1;31m"[0m[31m[0m })],
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  //<![CDATA[[1;35m\n[0m[31m    var MONTHNAMES = [null,[1;35m\"[0m[31mJanuary[1;35m\"[0m[31m,[1;35m\"[0m[31mFebruary[1;35m\"[0m[31m,[1;35m\"[0m[31mMarch[1;35m\"[0m[31m,[1;35m\"[0m[31mApril[1;35m\"[0m[31m,[1;35m\"[0m[31mMay[1;35m\"[0m[31m,[1;35m\"[0m[31mJune[1;35m\"[0m[31m,[1;35m\"[0m[31mJuly[1;35m\"[0m[31m,[1;35m\"[0m[31mAugust[1;35m\"[0m[31m,[1;35m\"[0m[31mSeptember[1;35m\"[0m[31m,[1;35m\"[0m[31mOctober[1;35m\"[0m[31m,[1;35m\"[0m[31mNovember[1;35m\"[0m[31m,[1;35m\"[0m[31mDecember[1;35m\"[0m[31m];[1;35m\n[0m[31m    Event.observe(window, 'load', function() {[1;35m\n[0m[31m      [$('byYearForm'), $('byMonthForm')].each(function(form) {[1;35m\n[0m[31m        form.observe('submit', function(e) {[1;35m\n[0m[31m          Event.stop(e);[1;35m\n[0m[31m          var yearField = form.down('select[name=year]');[1;35m\n[0m[31m          var monthField = form.down('select[name=month]');[1;35m\n[0m[31m          var url = [1;35m\"[0m[31m/book/popular_by_date/[1;35m\"[0m[31m;[1;35m\n[0m[31m          if (yearField != null) {[1;35m\n[0m[31m            url += yearField.value + '/';[1;35m\n[0m[31m          };[1;35m\n[0m[31m          if (monthField != null) {[1;35m\n[0m[31m            url += MONTHNAMES[monthField.value] + '/';[1;35m\n[0m[31m          };[1;35m\n[0m[31m          window.location.href = url;[1;35m\n[0m[31m          return false;[1;35m\n[0m[31m        });[1;35m\n[0m[31m      });[1;35m\n[0m[31m    });[1;35m\n[0m[31m  //]]>[1;35m\n[0m[31m  [1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;35m\n[0m[31m  [1;35m\n[0m[31m  [1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x145fe74 {[0m
+              name = [31m[1;31m"[0m[31mlink[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x145f4c4 {[0m name = [31m[1;31m"[0m[31mrel[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31msearch[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x145f4b0 {[0m
+                  name = [31m[1;31m"[0m[31mtype[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mapplication/opensearchdescription+xml[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x145f49c {[0m name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m/opensearch.xml[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x145f488 {[0m name = [31m[1;31m"[0m[31mtitle[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mGoodreads[1;31m"[0m[31m[0m })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x10dcfe0 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m//<![CDATA[[1;35m\n[0m[31m[1;35m\n[0m[31m  var GoodreadsAnalytics = GoodreadsAnalytics || {};[1;35m\n[0m[31m  var _gaq = _gaq || [];[1;35m\n[0m[31m[1;35m\n[0m[31m  GoodreadsAnalytics.push = function () {[1;35m\n[0m[31m    _gaq.push.apply(_gaq, arguments);[1;35m\n[0m[31m  }[1;35m\n[0m[31m[1;35m\n[0m[31m  GoodreadsAnalytics.push(['_setAccount', 'UA-968618-1']);[1;35m\n[0m[31m  GoodreadsAnalytics.push(['_setCustomVar',[1;35m\n[0m[31m    1,                        // Slot 1[1;35m\n[0m[31m    'User Status',            // Custom variable name[1;35m\n[0m[31m    'signed_out',  // Custom variable value: signed_out, signed_in,[1;35m\n[0m[31m                              //   signed_in_facebook_connected, or[1;35m\n[0m[31m                              //   goodreads_member_previously_signed_in[1;35m\n[0m[31m    2                         // Visit-level scope, which means slot 1 will be[1;35m\n[0m[31m                              //   free when the visit ends.[1;35m\n[0m[31m  ]);[1;35m\n[0m[31m  GoodreadsAnalytics.push(['_setCustomVar',[1;35m\n[0m[31m    2,                        // Slot 2[1;35m\n[0m[31m    'Device Type',            // Custom variable name[1;35m\n[0m[31m    'desktop',         // Custom variable value: desktop, mobile, or[1;35m\n[0m[31m                              //   tablet[1;35m\n[0m[31m    2                         // Visit-level scope, which means slot 2 will be[1;35m\n[0m[31m                              //   free when the visit ends.[1;35m\n[0m[31m  ]);[1;35m\n[0m[31m  GoodreadsAnalytics.push(['_trackPageview']);[1;35m\n[0m[31m[1;35m\n[0m[31m  (function () {[1;35m\n[0m[31m    var ga = document.createElement('script');[1;35m\n[0m[31m    ga.type = 'text/javascript';[1;35m\n[0m[31m    ga.async = true;[1;35m\n[0m[31m    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';[1;35m\n[0m[31m    var s = document.getElementsByTagName('script')[0];[1;35m\n[0m[31m    s.parentNode.insertBefore(ga, s);[1;35m\n[0m[31m  })();[1;35m\n[0m[31m[1;35m\n[0m[31m//]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x14687e0 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x10d17d0 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mdescription[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x10d17bc {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mThe Woman in the Window by A.J. Finn, The Great Alone by Kristin Hannah, Educated by Tara Westover, An American Marriage by Tayari Jones, and The Tattooi...[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x10c7550 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x10c6470 {[0m name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31msummary[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x10c6448 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtwitter:card[1;31m"[0m[31m[0m })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x147335c {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x14729ac {[0m name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m@goodreads[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x1472998 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtwitter:site[1;31m"[0m[31m[0m })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x14771a0 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x14767f0 {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mMost Popular Books Published In 2018[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x14767dc {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mtwitter:title[1;31m"[0m[31m[0m })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x10a7d40 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x10a70c0 {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mThe Woman in the Window by A.J. Finn, The Great Alone by Kristin Hannah, Educated by Tara Westover, An American Marriage by Tayari Jones, and The Tattooi...[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x10a7098 {[0m
+                  name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mtwitter:description[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x109ceb8 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1481d44 {[0m name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mverify-v1[1;31m"[0m[31m[0m }),
+                [1;34m#(Attr:0x1481d30 {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mcEf8XOH0pulh1aYQeZ1gkXHsQ3dMPSyIGGYqmF53690=[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1485fc0 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1485610 {[0m
+                  name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mgoogle-site-verification[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x14855fc {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mPfFjeZ9OK1RrUrKlmAPn_iZJ_vgHaZO1YQ-QlG2VsJs[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x1489d50 {[0m
+              name = [31m[1;31m"[0m[31mmeta[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x14893a0 {[0m
+                  name = [31m[1;31m"[0m[31mname[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mapple-itunes-app[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x148938c {[0m
+                  name = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mapp-id=355833469[1;31m"[0m[31m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+          }),
+        [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+        [1;34m#(Element:0x148fb88 {[0m
+          name = [31m[1;31m"[0m[31mbody[1;31m"[0m[31m[0m,
+          attributes = [ [1;34m#(Attr:0x148f1d8 {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m[1;31m"[0m[31m[0m })],
+          children = [
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x14900d8 {[0m
+              name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+              children = [
+                [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m//<![CDATA[[1;35m\n[0m[31mReactStores.GoogleAdsStore.initializeWith({[1;35m\"[0m[31mtargeting[1;35m\"[0m[31m:{[1;35m\"[0m[31msid[1;35m\"[0m[31m:[1;35m\"[0m[31mosid.516c274d9f8f42f4bdecf97931bcdbbf[1;35m\"[0m[31m,[1;35m\"[0m[31mgrsession[1;35m\"[0m[31m:[1;35m\"[0m[31mosid.516c274d9f8f42f4bdecf97931bcdbbf[1;35m\"[0m[31m,[1;35m\"[0m[31msurface[1;35m\"[0m[31m:[1;35m\"[0m[31mdesktop[1;35m\"[0m[31m,[1;35m\"[0m[31msignedin[1;35m\"[0m[31m:[1;35m\"[0m[31mfalse[1;35m\"[0m[31m,[1;35m\"[0m[31mgr_author[1;35m\"[0m[31m:[1;35m\"[0m[31mfalse[1;35m\"[0m[31m,[1;35m\"[0m[31mauthor[1;35m\"[0m[31m:[]},[1;35m\"[0m[31mads[1;35m\"[0m[31m:{[1;35m\"[0m[31mdiv-gpt-ad-goodr-genres-top-300x250[1;35m\"[0m[31m:{[1;35m\"[0m[31misNativeAd[1;35m\"[0m[31m:false,[1;35m\"[0m[31mhasCreative[1;35m\"[0m[31m:false,[1;35m\"[0m[31mhasRequestedCreative[1;35m\"[0m[31m:false,[1;35m\"[0m[31mpath[1;35m\"[0m[31m:[1;35m\"[0m[31m/4215/goodr.genres.top.300x250[1;35m\"[0m[31m,[1;35m\"[0m[31mdimensions[1;35m\"[0m[31m:[1;35m\"[0m[31m300x250[1;35m\"[0m[31m,[1;35m\"[0m[31madSizeMapping[1;35m\"[0m[31m:null,[1;35m\"[0m[31madDeviceType[1;35m\"[0m[31m:[1;35m\"[0m[31mdesktop[1;35m\"[0m[31m,[1;35m\"[0m[31mpmetImpressionTrackUrl[1;35m\"[0m[31m:[1;35m\"[0m[31mhttps://www.goodreads.com/dfp/impression[1;35m\"[0m[31m,[1;35m\"[0m[31mpmetClickTrackUrl[1;35m\"[0m[31m:[1;35m\"[0m[31mhttps://www.goodreads.com/dfp/click[1;35m\"[0m[31m,[1;35m\"[0m[31mcreativeSelector[1;35m\"[0m[31m:[1;35m\"[0m[31mdiv#google_image_div[1;35m\"[0m[31m,[1;35m\"[0m[31misLazyLoaded[1;35m\"[0m[31m:false}},[1;35m\"[0m[31mnativeAds[1;35m\"[0m[31m:{},[1;35m\"[0m[31mpolls[1;35m\"[0m[31m:{}});[1;35m\n[0m[31m//]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+              }),
+            [1;34m#(Element:0x14998e0 {[0m
+              name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x1498f30 {[0m
+                  name = [31m[1;31m"[0m[31mdata-react-class[1;31m"[0m[31m[0m,
+                  value = [31m[1;31m"[0m[31mReactComponents.StoresInitializer[1;31m"[0m[31m[0m
+                  }),
+                [1;34m#(Attr:0x1498f1c {[0m name = [31m[1;31m"[0m[31mdata-react-props[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31m{}[1;31m"[0m[31m[0m })],
+              children = [
+                [1;34m#(Element:0x1064180 {[0m
+                  name = [31m[1;31m"[0m[31mnoscript[1;31m"[0m[31m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0x149da44 {[0m
+                      name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                      value = [31m[1;31m"[0m[31m.17oaavmcw74[1;31m"[0m[31m[0m
+                      }),
+                    [1;34m#(Attr:0x149da30 {[0m
+                      name = [31m[1;31m"[0m[31mdata-react-checksum[1;31m"[0m[31m[0m,
+                      value = [31m[1;31m"[0m[31m-1232400069[1;31m"[0m[31m[0m
+                      })]
+                  })]
+              }),
+            [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+            [1;34m#(Element:0x14a0f8c {[0m
+              name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+              attributes = [
+                [1;34m#(Attr:0x14a05dc {[0m name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m, value = [31m[1;31m"[0m[31mcontent[1;31m"[0m[31m[0m })],
+              children = [
+                [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  [1;35m\n[0m[31m[1;35m\n[0m[31m    [1;31m"[0m[31m[0m),
+                [1;34m#(Element:0x14a5b7c {[0m
+                  name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+                  children = [
+                    [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m  //<![CDATA[[1;35m\n[0m[31m    // Load Facebook JS SDK[1;35m\n[0m[31m    $grfb.initialize({[1;35m\n[0m[31m      appId: [1;35m\"[0m[31m2415071772[1;35m\"[0m[31m,[1;35m\n[0m[31m      grSession: false,[1;35m\n[0m[31m      serverFBUser: [1;35m\"[0m[31mnull[1;35m\"[0m[31m,[1;35m\n[0m[31m      suppressAutoLogin: [1;35m\"[0m[31mfalse[1;35m\"[0m[31m[1;35m\n[0m[31m    });[1;35m\n[0m[31m  //]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+                  }),
+                [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+                [1;34m#(Element:0x1047ea4 {[0m
+                  name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0x1047134 {[0m
+                      name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                      value = [31m[1;31m"[0m[31msiteHeader[1;31m"[0m[31m[0m
+                      })],
+                  children = [
+                    [1;34m#(Text [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m[1;31m"[0m[31m[0m),
+                    [1;34m#(Element:0x14ab20c {[0m
+                      name = [31m[1;31m"[0m[31mscript[1;31m"[0m[31m[0m,
+                      children = [
+                        [1;34m#(CDATA [0m[31m[1;31m"[0m[31m[1;35m\n[0m[31m//<![CDATA[[1;35m\n[0m[31m  ReactStores.NotificationsStore.updateWith({});[1;35m\n[0m[31m  ReactStores.CurrentUserStore.initializeWith({[1;35m\"[0m[31mcurrentUser[1;35m\"[0m[31m:null});[1;35m\n[0m[31m  ReactStores.FavoriteGenresStore.updateWith({[1;35m\"[0m[31mallGenres[1;35m\"[0m[31m:[{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mArt[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/art[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mBiography[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/biography[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mBusiness[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/business[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mChildren's[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/children-s[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mChristian[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/christian[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mClassics[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/classics[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mComics[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/comics[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mCookbooks[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/cookbooks[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mEbooks[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/ebooks[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mFantasy[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/fantasy[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mFiction[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/fiction[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mGraphic Novels[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/graphic-novels[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mHistorical Fiction[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/historical-fiction[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mHistory[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/history[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mHorror[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/horror[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mMemoir[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/memoir[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mMusic[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/music[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mMystery[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/mystery[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mNonfiction[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/non-fiction[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mPoetry[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/poetry[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mPsychology[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/psychology[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mRomance[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/romance[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mScience[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/science[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mScience Fiction[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/science-fiction[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mSelf Help[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/self-help[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mSports[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/sports[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mThriller[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/thriller[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mTravel[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/travel[1;35m\"[0m[31m},{[1;35m\"[0m[31mname[1;35m\"[0m[31m:[1;35m\"[0m[31mYoung Adult[1;35m\"[0m[31m,[1;35m\"[0m[31murl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres/young-adult[1;35m\"[0m[31m}],[1;35m\"[0m[31mfavoriteGenres[1;35m\"[0m[31m:[]});[1;35m\n[0m[31m  ReactStores.TabsStore.updateWith({[1;35m\"[0m[31mcommunitySpotlight[1;35m\"[0m[31m:[1;35m\"[0m[31mgroups[1;35m\"[0m[31m});[1;35m\n[0m[31m[1;35m\n[0m[31m//]]>[1;35m\n[0m[31m[1;31m"[0m[31m[0m)]
+                      }),
+                    [1;34m#(Element:0x102eee0 {[0m
+                      name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0x14b3c68 {[0m
+                          name = [31m[1;31m"[0m[31mdata-react-class[1;31m"[0m[31m[0m,
+                          value = [31m[1;31m"[0m[31mReactComponents.HeaderStoreConnector[1;31m"[0m[31m[0m
+                          }),
+                        [1;34m#(Attr:0x14b3c54 {[0m
+                          name = [31m[1;31m"[0m[31mdata-react-props[1;31m"[0m[31m[0m,
+                          value = [31m[1;31m"[0m[31m{[1;35m\"[0m[31mmyBooksUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/review/list[1;35m\"[0m[31m,[1;35m\"[0m[31mbrowseUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/book[1;35m\"[0m[31m,[1;35m\"[0m[31mrecommendationsUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/recommendations[1;35m\"[0m[31m,[1;35m\"[0m[31mchoiceAwardsUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/choiceawards[1;35m\"[0m[31m,[1;35m\"[0m[31mgenresIndexUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/genres[1;35m\"[0m[31m,[1;35m\"[0m[31mgiveawayUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/giveaway[1;35m\"[0m[31m,[1;35m\"[0m[31mhomeUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/[1;35m\"[0m[31m,[1;35m\"[0m[31mlistUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/list[1;35m\"[0m[31m,[1;35m\"[0m[31mblogUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/blog/index[1;35m\"[0m[31m,[1;35m\"[0m[31meditorsPicksUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/voice[1;35m\"[0m[31m,[1;35m\"[0m[31mnewsUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/news[1;35m\"[0m[31m,[1;35m\"[0m[31mcommunityUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/group[1;35m\"[0m[31m,[1;35m\"[0m[31mgroupsUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/group[1;35m\"[0m[31m,[1;35m\"[0m[31mquotesUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/quotes[1;35m\"[0m[31m,[1;35m\"[0m[31mfeaturedAskAuthorUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/ask_the_author[1;35m\"[0m[31m,[1;35m\"[0m[31msearchPath[1;35m\"[0m[31m:[1;35m\"[0m[31m/search[1;35m\"[0m[31m,[1;35m\"[0m[31mdiscussionsUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/topic[1;35m\"[0m[31m,[1;35m\"[0m[31mautocompleteUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/book/auto_complete[1;35m\"[0m[31m,[1;35m\"[0m[31mdefaultLogoActionUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/[1;35m\"[0m[31m,[1;35m\"[0m[31mlogoActionUrl[1;35m\"[0m[31m:[1;35m\"[0m[31mhttps://www.goodreads.com?int=gca_doodle[1;35m\"[0m[31m,[1;35m\"[0m[31mreadingNotesUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/notes?ref=nd[1;35m\"[0m[31m,[1;35m\"[0m[31mtopFullImage[1;35m\"[0m[31m:{[1;35m\"[0m[31mtopFullImageUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/choiceawards?int=gca_eb[1;35m\"[0m[31m,[1;35m\"[0m[31mtopFullImageAlt[1;35m\"[0m[31m:[1;35m\"[0m[31m2018 Goodreads Choice Awards[1;35m\"[0m[31m,[1;35m\"[0m[31mxs[1;35m\"[0m[31m:{[1;35m\"[0m[31m1x[1;35m\"[0m[31m:[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/site_header/editorial_top_full_xs_1x-a419bebd5c60b3b09698deeeaf8a9e7c.png[1;35m\"[0m[31m,[1;35m\"[0m[31m2x[1;35m\"[0m[31m:[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/site_header/editorial_top_full_xs_2x-7dcc0cf31df691b5d5e6533947add5e9.png[1;35m\"[0m[31m},[1;35m\"[0m[31mmd[1;35m\"[0m[31m:{[1;35m\"[0m[31m1x[1;35m\"[0m[31m:[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/site_header/editorial_top_full_md_1x-7c91484b0d517c2b9e6ce357ee985a22.png[1;35m\"[0m[31m,[1;35m\"[0m[31m2x[1;35m\"[0m[31m:[1;35m\"[0m[31mhttps://s.gr-assets.com/assets/site_header/editorial_top_full_md_2x-e29241108fe30ecd47a225166517df92.png[1;35m\"[0m[31m}},[1;35m\"[0m[31mnewReleasesUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/book/popular_by_date/2018/11[1;35m\"[0m[31m,[1;35m\"[0m[31msignInUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/user/sign_in[1;35m\"[0m[31m,[1;35m\"[0m[31msignUpUrl[1;35m\"[0m[31m:[1;35m\"[0m[31m/user/sign_up[1;35m\"[0m[31m,[1;35m\"[0m[31msignInWithReturnUrl[1;35m\"[0m[31m:true,[1;35m\"[0m[31mdeployServices[1;35m\"[0m[31m:[[1;35m\"[0m[31mlogo_doodle[1;35m\"[0m[31m,[1;35m\"[0m[31mnewsfeed_impression_tracking[1;35m\"[0m[31m,[1;35m\"[0m[31mnav_bar_discussions_pane[1;35m\"[0m[31m,[1;35m\"[0m[31msite_header_top_full_image[1;35m\"[0m[31m,[1;35m\"[0m[31mnews_page[1;35m\"[0m[31m],[1;35m\"[0m[31mdefaultLogoAltText[1;35m\"[0m[31m:[1;35m\"[0m[31mGoodreads Home[1;35m\"[0m[31m,[1;35m\"[0m[31mlogoAltText[1;35m\"[0m[31m:[1;35m\"[0m[31mChoice Awards 2018[1;35m\"[0m[31m,[1;35m\"[0m[31mmobviousDeviceType[1;35m\"[0m[31m:[1;35m\"[0m[31mdesktop[1;35m\"[0m[31m}[1;31m"[0m[31m[0m
+                          })],
+                      children = [
+                        [1;34m#(Element:0x14b9a3c {[0m
+                          name = [31m[1;31m"[0m[31mheader[1;31m"[0m[31m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0x14b9348 {[0m
+                              name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                              value = [31m[1;31m"[0m[31m.13yj4bz1bls[1;31m"[0m[31m[0m
+                              }),
+                            [1;34m#(Attr:0x14b9334 {[0m
+                              name = [31m[1;31m"[0m[31mdata-react-checksum[1;31m"[0m[31m[0m,
+                              value = [31m[1;31m"[0m[31m-347314341[1;31m"[0m[31m[0m
+                              })],
+                          children = [
+                            [1;34m#(Element:0x1014cd4 {[0m
+                              name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x101407c {[0m
+                                  name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                  value = [31m[1;31m"[0m[31msiteHeader__topFullImageContainer[1;31m"[0m[31m[0m
+                                  }),
+                                [1;34m#(Attr:0x1014068 {[0m
+                                  name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                  value = [31m[1;31m"[0m[31m.13yj4bz1bls.0[1;31m"[0m[31m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0x1006210 {[0m
+                                  name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x14c1a98 {[0m
+                                      name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                      value = [31m[1;31m"[0m[31msiteHeader__topFullImageLink[1;31m"[0m[31m[0m
+                                      }),
+                                    [1;34m#(Attr:0x14c1a84 {[0m
+                                      name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+                                      value = [31m[1;31m"[0m[31m/choiceawards?int=gca_eb[1;31m"[0m[31m[0m
+                                      }),
+                                    [1;34m#(Attr:0x14c1a70 {[0m
+                                      name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                      value = [31m[1;31m"[0m[31m.13yj4bz1bls.0.0[1;31m"[0m[31m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Element:0x14c4aa4 {[0m
+                                      name = [31m[1;31m"[0m[31mpicture[1;31m"[0m[31m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x14c43b0 {[0m
+                                          name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31m.13yj4bz1bls.0.0.0[1;31m"[0m[31m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Element:0xff7d78 {[0m
+                                          name = [31m[1;31m"[0m[31msource[1;31m"[0m[31m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xff7300 {[0m
+                                              name = [31m[1;31m"[0m[31mmedia[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31m(min-width: 768px)[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0xff72ec {[0m
+                                              name = [31m[1;31m"[0m[31msrcset[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/site_header/editorial_top_full_md_1x-7c91484b0d517c2b9e6ce357ee985a22.png 1x, https://s.gr-assets.com/assets/site_header/editorial_top_full_md_2x-e29241108fe30ecd47a225166517df92.png 2x[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0xff72d8 {[0m
+                                              name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31m.13yj4bz1bls.0.0.0.0[1;31m"[0m[31m[0m
+                                              })]
+                                          }),
+                                        [1;34m#(Element:0x14d70dc {[0m
+                                          name = [31m[1;31m"[0m[31mimg[1;31m"[0m[31m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0x14d672c {[0m
+                                              name = [31m[1;31m"[0m[31malt[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31m2018 Goodreads Choice Awards[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0x14d6718 {[0m
+                                              name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31msiteHeader__topFullImage[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0x14d6704 {[0m
+                                              name = [31m[1;31m"[0m[31msrc[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/site_header/editorial_top_full_xs_1x-a419bebd5c60b3b09698deeeaf8a9e7c.png[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0x14d66f0 {[0m
+                                              name = [31m[1;31m"[0m[31msrcset[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31mhttps://s.gr-assets.com/assets/site_header/editorial_top_full_xs_2x-7dcc0cf31df691b5d5e6533947add5e9.png 2x[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0x14d66dc {[0m
+                                              name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31m.13yj4bz1bls.0.0.0.1[1;31m"[0m[31m[0m
+                                              })]
+                                          })]
+                                      })]
+                                  })]
+                              }),
+                            [1;34m#(Element:0xfc7808 {[0m
+                              name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xfc60fc {[0m
+                                  name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                  value = [31m[1;31m"[0m[31msiteHeader__topLine gr-box gr-box--withShadow[1;31m"[0m[31m[0m
+                                  }),
+                                [1;34m#(Attr:0xfc60e8 {[0m
+                                  name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                  value = [31m[1;31m"[0m[31m.13yj4bz1bls.1[1;31m"[0m[31m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0xfc29ac {[0m
+                                  name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x14f9f74 {[0m
+                                      name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                      value = [31m[1;31m"[0m[31msiteHeader__contents[1;31m"[0m[31m[0m
+                                      }),
+                                    [1;34m#(Attr:0x14f9f60 {[0m
+                                      name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                      value = [31m[1;31m"[0m[31m.13yj4bz1bls.1.0[1;31m"[0m[31m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Element:0xfbf5f4 {[0m
+                                      name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xfbee38 {[0m
+                                          name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31msiteHeader__topLevelItem siteHeader__topLevelItem--searchIcon[1;31m"[0m[31m[0m
+                                          }),
+                                        [1;34m#(Attr:0xfbee24 {[0m
+                                          name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31m.13yj4bz1bls.1.0.0[1;31m"[0m[31m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Element:0x1506d50 {[0m
+                                          name = [31m[1;31m"[0m[31mbutton[1;31m"[0m[31m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0x150665c {[0m
+                                              name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31msiteHeader__searchIcon gr-iconButton[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0x1506648 {[0m
+                                              name = [31m[1;31m"[0m[31maria-label[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31mToggle search[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0x1506634 {[0m
+                                              name = [31m[1;31m"[0m[31mtype[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31mbutton[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0x1506620 {[0m
+                                              name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31m.13yj4bz1bls.1.0.0.0[1;31m"[0m[31m[0m
+                                              })]
+                                          })]
+                                      }),
+                                    [1;34m#(Element:0x1d8a120 {[0m
+                                      name = [31m[1;31m"[0m[31mdiv[1;31m"[0m[31m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xf9e7b4 {[0m
+                                          name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31msiteHeader__homeIconContainer[1;31m"[0m[31m[0m
+                                          }),
+                                        [1;34m#(Attr:0xf9e7a0 {[0m
+                                          name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31m.13yj4bz1bls.1.0.1[1;31m"[0m[31m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Element:0x1d940d0 {[0m
+                                          name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xf9b618 {[0m
+                                              name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31m/[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0xf9b5dc {[0m
+                                              name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31msiteHeader__homeIcon[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0xf9b5b4 {[0m
+                                              name = [31m[1;31m"[0m[31maria-label[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31mGoodreads Home[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0xf9b5a0 {[0m
+                                              name = [31m[1;31m"[0m[31mtitle[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31mGoodreads Home[1;31m"[0m[31m[0m
+                                              }),
+                                            [1;34m#(Attr:0xf9b578 {[0m
+                                              name = [31m[1;31m"[0m[31mdata-reactid[1;31m"[0m[31m[0m,
+                                              value = [31m[1;31m"[0m[31m.13yj4bz1bls.1.0.1.0[1;31m"[0m[31m[0m
+                                              })]
+                                          })]
+                                      }),
+                                    [1;34m#(Element:0x1da8aa8 {[0m
+                                      name = [31m[1;31m"[0m[31ma[1;31m"[0m[31m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x1da80f8 {[0m
+                                          name = [31m[1;31m"[0m[31mhref[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31mhttps://www.goodreads.com?int=gca_doodle[1;31m"[0m[31m[0m
+                                          }),
+                                        [1;34m#(Attr:0x1da80e4 {[0m
+                                          name = [31m[1;31m"[0m[31mclass[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31msiteHeader__logo siteHeader__logo--doodle[1;31m"[0m[31m[0m
+                                          }),
+                                        [1;34m#(Attr:0x1da80d0 {[0m
+                                          name = [31m[1;31m"[0m[31maria-label[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31mChoice Awards 2018[1;31m"[0m[31m[0m
+                                          }),
+                                        [1;34m#(Attr:0x1da80bc {[0m
+                                          name = [31m[1;31m"[0m[31mtitle[1;31m"[0m[31m[0m,
+                                          value = [31m[1;31m"[0m[31mChoice Awards 2018[1;31m"[0m[31m[0m
+                                          }),
+                                        [1;34m#(Attr:0x1da80a8 {[0m

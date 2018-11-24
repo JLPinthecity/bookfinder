@@ -15,7 +15,7 @@ end
 def menu
   puts Bookfinder::Book.all
    input = nil
-   while input != "exit" || "e"
+   while input != "exit" || input != "e"
      puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program."
      input = gets.chomp.to_i
      case input

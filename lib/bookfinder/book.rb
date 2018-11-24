@@ -1,6 +1,8 @@
 require 'pry'
 
 class Bookfinder::Book
+  attr_accessor :title, :author, :genre, :description, :url
+  
 @@books = ["1", "2", "3"]
 
 
@@ -16,4 +18,3 @@ end
 end
 
 
-binding.pry
