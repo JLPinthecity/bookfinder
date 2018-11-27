@@ -1,12 +1,11 @@
 class Bookfinder::Book
-  attr_accessor :title, :author, :image, :url
+  attr_accessor :title, :author, :url
 
 @@all = []
   
-def initialize(title, author, image, url)
+def initialize(title, author, url)
   @title = title
   @author = author
-  @image = image
   @url = url
   @@all << self
 end
