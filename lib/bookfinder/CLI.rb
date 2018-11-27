@@ -13,31 +13,25 @@ end
 
 def menu
   Bookfinder::Scraper.scrape_books
-  Bookfinder::Book.display_books
+  books = Bookfinder::Books.all 
+  books.each.with_index(1) do |book, index|
+    puts "#{index}: #{book.title} - #{book.author}"
+  end
   puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program."
-    input = gets.strip
-    if valid?(input) && input != "exit"
-      input = input.to_i - 1
-      
-      book = Bookfinder::Book.all[input]
+  input = gets.strip
+    while input.to_i.between?(1, 20) && input != "exit"
+      index = input.to_i - 1
+      book = Bookfinder::Book.all[index]
       Bookfinder::Scraper.scrape_individual_book(book)
-      puts “Category: #{book.category_of_fiction}"
-      puts “Description: #{book.description}"
-      puts “Image: #{book.image}""
+      puts "#{book.category_of_fiction}"
+      puts "#{book.description}"
+      puts "#{book.image}"
     else 
       goodbye
     end
 end
 
-def display_book_details(book)
 
-def valid?(n)
-  if n > 0 && n < 20
-  true
-  else
-  false 
-  end
-end
 
 def goodbye
   puts "Thank you and goodbye!"
