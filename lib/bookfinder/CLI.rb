@@ -13,7 +13,8 @@ def list_books
 end
 
 def menu
-  puts "list of books go here"
+  Bookfinder::Scraper.scrape_books
+  Bookfinder::Book.display_books
   puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program."
   input = gets.chomp.to_i
   if valid?(input) && input != "exit"

@@ -8,13 +8,17 @@ def initialize(title, author, image, url)
   @author = author
   @image = image
   @url = url
-  @@all = []
+  @@all << self
 end
 
 def self.all
   @@all
 end
 
+def self.display_books
+  @@all.each.with_index(1) do |book, index|
+    puts "#{index}: #{book.title} - #{book.author}"
+  end
 end
 
-
+end
