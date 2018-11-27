@@ -13,22 +13,19 @@ def list_books
 end
 
 def menu
-  puts Bookfinder::Book.all
-   input = nil
+  puts "list of books go here"
+  puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program."
+  input = gets.chomp.to_i
    while input != "exit" || input != "e"
-     puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program."
-     input = gets.chomp.to_i
-     case input
-     when Integer
-       puts "yay, that works"
-     when !valid?
+     if !valid?(input)
+     puts "display selected book menu"
      else
-       puts "Try a valid input."
+     puts "Try a valid input."
      end
    end
 end
 
-def valid? 
+def valid?(n)
   binding.pry
   if n > 0 && n < 20
   true
