@@ -16,17 +16,12 @@ def menu
   puts "list of books go here"
   puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program."
   input = gets.chomp.to_i
-   while input != "exit" || input != "e"
-     if !valid?(input)
-     puts "display selected book menu"
-     else
-     puts "Try a valid input."
-     end
-   end
+  if valid?(input) && input != "exit"
+    puts "book menu goes here"
+  end
 end
 
 def valid?(n)
-  binding.pry
   if n > 0 && n < 20
   true
   else

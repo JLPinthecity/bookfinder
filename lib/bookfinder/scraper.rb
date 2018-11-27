@@ -3,12 +3,12 @@ class Bookfinder::Scraper
 def self.scrape_books
   doc = Nokogiri::HTML(open("https://www.penguinrandomhouse.com/books/award-winners-fiction"))
   doc.css("div.book").each do |book| 
-   Book.new = ({
-    author: book.css("div.contributor").text.strip,
-    image: book.css("div a img").attribute("src").value,
-    path: book.css("div.img a").attribute("href").value,
-    url:  "https://www.penguinrandomhouse.com#{path}"
-   })
+    title = book.css("div.title").text.strip
+    author = book.css("div.contributor").text.strip
+    image = book.css("div a img").attribute("src").value
+    path = book.css("div.img a").attribute("href").value
+    url =  "https://www.penguinrandomhouse.com#{path}"
+    new_book = Book.new(author, image, url)
   end
 end
 

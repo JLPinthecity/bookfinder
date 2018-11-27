@@ -5,4 +5,3 @@ require "bookfinder"
 
 Bookfinder::CLI.new.call
 
-

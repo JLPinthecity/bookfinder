@@ -1,16 +1,14 @@
-require 'pry'
-
 class Bookfinder::Book
-  attr_accessor :title, :author, :url
+  attr_accessor :title, :author, :image, :url
 
 @@all = []
   
-def initialize(title, author, url)
+def initialize(title, author, image, url)
   @title = title
   @author = author
+  @image = image
   @url = url
   @@all = []
-  end
 end
 
 def self.all
