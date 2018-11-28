@@ -1,5 +1,5 @@
-class Bookfinder::Book
-  attr_accessor :title, :author, :url, :category_of_fiction, :description, :image
+class Book
+  attr_accessor :title, :author, :url, :category_of_fiction, :description, :image, :author_details
 
 @@all = []
   

@@ -1,4 +1,4 @@
-class Bookfinder::CLI
+class CLI
   
 def call
   puts "Welcome to the Award-Winning Fiction Bookfinder Tool!"
@@ -12,26 +12,29 @@ def list_books
 end
 
 def menu
-  Bookfinder::Scraper.scrape_books
-  books = Bookfinder::Books.all 
-  books.each.with_index(1) do |book, index|
+  Scraper.scrape_books
+  Books.all.each.with_index(1) do |book, index|
     puts "#{index}: #{book.title} - #{book.author}"
   end
-  puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program."
-  input = gets.strip
-    while input.to_i.between?(1, 20) && input != "exit"
-      index = input.to_i - 1
-      book = Bookfinder::Book.all[index]
-      Bookfinder::Scraper.scrape_individual_book(book)
-      puts "#{book.category_of_fiction}"
-      puts "#{book.description}"
-      puts "#{book.image}"
+  
+  puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program:"
+  
+  input = gets.strip.to_i - 1
+  
+    if input.between?(0, 19) 
+      index = input
+     
+      book = Book.all[index]
+      Scraper.scrape_book_details(book)
+      puts "Category: #{book.category_of_fiction}"
+      puts "Description: #{book.description}"
+      puts "Author details: #{book.author_details}"
+      puts "Cover image: #{book.image}"
+      
     else 
       goodbye
     end
 end
-
-
 
 def goodbye
   puts "Thank you and goodbye!"
