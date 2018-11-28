@@ -7,7 +7,7 @@ def self.scrape_books
     author = book.css("div.contributor").text.strip
     path = book.css("div.img a").attribute("href").value
     url =  "https://www.penguinrandomhouse.com#{path}"
-    Bookfinder::Book.new(title, author, url)
+    Book.new(title, author, url)
   end
 end
 

@@ -13,7 +13,7 @@ end
 
 def menu
   Scraper.scrape_books
-  Books.all.each.with_index(1) do |book, index|
+  Book.all.each.with_index(1) do |book, index|
     puts "#{index}: #{book.title} - #{book.author}"
   end
   
