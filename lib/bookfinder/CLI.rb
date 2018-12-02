@@ -6,7 +6,7 @@ def call
 end
 
 def list_books
-  puts "Would you like to view a list of award-winning novels? Enter y or n:"
+  puts "Would you like to view the list of award-winning novels? Enter y or n:"
   input = gets.strip.downcase
   input == "y" ? menu : goodbye
 end
@@ -26,10 +26,16 @@ def menu
      
       book = Book.all[index]
       Scraper.scrape_book_details(book)
-      puts "Category: #{book.category_of_fiction}"
-      puts "Description: #{book.description}"
-      puts "Author details: #{book.author_details}"
-      puts "Cover image: #{book.image}"
+      puts "                                     "
+      puts "||Category|| #{book.category_of_fiction}"
+      puts "                                     "
+      puts "||Description|| #{book.description}"
+      puts "                                     "
+      puts "||Author details|| #{book.author_details}"
+      puts "                                     "
+      puts "||Cover image|| #{book.image}"
+      puts "                                     "
+      list_books
       
     else 
       goodbye
