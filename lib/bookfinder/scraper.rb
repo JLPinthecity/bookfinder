@@ -16,8 +16,9 @@ class Scraper
      book.image = new_book_landing.css("div.cover-wrapper img").attr('src').value
      book.author_details = new_book_landing.css("div#mobile-author-spotlights .clearfix").text.split(". ")[0] << "."
      book.category_of_fiction = new_book_landing.css("div#product-top-category a").text.split[0] + " fiction"
-     book.description = new_book_landing.css("div#mobile-about-the-book p").text.split("\n\t")[0]
+     book.description = new_book_landing.css("div#mobile-about-the-book p").text.split(". ")[0..3].join(". ")  << "."
      book
+     
   end
 
 end
