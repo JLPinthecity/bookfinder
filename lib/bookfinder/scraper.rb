@@ -14,9 +14,11 @@ class Scraper
   def self.scrape_book_details(book)
      new_book_landing = Nokogiri::HTML(open("#{book.url}"))
      book.image = new_book_landing.css("div.cover-wrapper img").attr('src').value
-     book.author_details = new_book_landing.css("div#mobile-author-spotlights .clearfix").text.split(". ")[0] << "."
+     book.author_details = new_book_landing.css("div#mobile-author-spotlights .clearfix").text.split(". ")[0] 
+     book.author_details + "." if book.author_details != nil
      book.category_of_fiction = new_book_landing.css("div#product-top-category a").text.split[0] + " fiction"
-     book.description = new_book_landing.css("div#mobile-about-the-book p").text.split(". ")[0..3].join(". ")  << "."
+     book.description = new_book_landing.css("div#mobile-about-the-book p").text.split(". ")[0..3].join(". ") 
+     book.description + "." if book.description != nil
      book
      
   end

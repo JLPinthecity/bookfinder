@@ -9,8 +9,15 @@ class CLI
   def list_books
     puts "Would you like to view the list of award-winning novels? Enter y or n:"
     input = gets.strip.downcase
-    input == "y" ? menu : goodbye
+    if input == "y" 
+      menu 
+    elsif input == "n"
+     goodbye
+    else 
+      puts "Enter valid input."
+      list_books
     end
+  end
 
   def scrape_books
     Scraper.scrape_books
@@ -28,14 +35,13 @@ class CLI
     puts "Enter the number of the book you’d like to learn more about or enter exit to leave the program:"
     puts "                                     "
     
-    input = gets.strip.to_i - 1
-    number_of_books = Book.all.size
+    input = gets.strip
     
-    if input.between?(0, number_of_books - 1) 
-      index = input
+    if input.to_i.between?(1, Book.all.size) 
+      index = input.to_i - 1
      
       book = Book.all[index]
-      Scraper.scrape_book_details(book)
+      Scraper.scrape_book_details(book) if book.image == nil
       puts "                                     "
       puts "||Category|| #{book.category_of_fiction}"
       puts "                                     "
@@ -47,8 +53,11 @@ class CLI
       puts "                                     "
       list_books
       
-    else 
-      goodbye
+    elsif input.downcase == "exit"
+     goodbye
+    else
+      puts "Enter valid number."
+      menu
     end
   end
 
